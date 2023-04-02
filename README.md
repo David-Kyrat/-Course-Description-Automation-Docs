@@ -1,4 +1,4 @@
-# Unige - 12X015 | Course Description Automator _-Documentation-_
+## Unige - 12X015 | Course Description Automator _-Documentation-_
 
 
 #### ScalaDoc for repo [Course-Description-Automation](https://github.com/David-Kyrat/Course-Description-Automation)
