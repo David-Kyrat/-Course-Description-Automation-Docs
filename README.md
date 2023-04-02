@@ -1,3 +1,5 @@
 #  Course-Description-Automation-Docs
 
-## ScalaDoc for []()
+## ScalaDoc for [Course-Description-Automation](https://github.com/David-Kyrat/Course-Description-Automation)
+
+
