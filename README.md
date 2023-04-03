@@ -21,4 +21,4 @@ __![Sbt](https://img.shields.io/badge/Sbt-DC322F?style=for-the-badge&logo=scala&
 A separate repo was made for simplicity (and also to not force anyone that wants to clone it to download dozens of html pages.)
 
 
-__[Click here to preview.](https://raw.githack.com/David-Kyrat/Course-Description-Automation/master/target/scala-2.13/api/ch/index.html)__
+__[Click here to preview.](https://raw.githack.com/David-Kyrat/Course-Description-Automation-Docs/master/ch/index.html)__
